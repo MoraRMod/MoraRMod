@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-• 👨‍💻 I'm currently working on Selfish, located in Guadalajara.
-• 🧠 I'm currently learning Python, C# and data bases.
-• 🤔 I;m looking for help wiht Python, I have many doubts about it :(.
-• 💬 Ask me about books, especially romance ;).
-• 📫 Hot to reach me: ralerwip@gmai.com or +52 56 4651 7427.
-• ⚡ Fun fact: I am an active member of Mensa México since 2009. 
+- 👨‍💻 I'm currently working on Selfish, located in Guadalajara
+- 🧠 I'm currently learning Python, C# and data bases.
+- 🤔 I;m looking for help wiht Python, I have many doubts about it :(.
+- 💬 Ask me about books, especially romance ;).
+- 📫 Hot to reach me: ralerwip@gmai.com or +52 56 4651 7427.
+- ⚡ Fun fact: I am an active member of Mensa México since 2009. 
