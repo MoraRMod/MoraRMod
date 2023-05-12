@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🤔  I'm looking for help wiht Python, I have many doubts about it :(.
 - 💬  Ask me about mathematics, either basic or advanced. Also of books, particularly of romance.
 - 📫  How to reach me: ralerwip@gmai.com or +52 56 4651 7427.
-- ⚡  Fun fact: I am an active member of Mensa México since 2009. 
+- ⚡  Fun fact: I am an active math advisor at Mensa México.
