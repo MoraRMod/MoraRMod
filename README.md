@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🧠  I'm currently learning Python, C# and data bases.
 - 🤔  I'm looking for help wiht Python, I have many doubts about it :(.
 - 💬  Ask me about mathematics, either basic or advanced. Also of books, particularly of romance.
-- 📫  How to reach me: ralerwip@gmai.com or +52 56 4651 7427.
+- 📫  How to reach me: ralerwip@gmai.com.
 - ⚡  Fun fact: I am an active math advisor at Mensa México.
