@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts,cpp,git,html,css,react,cs,nodejs,c" />
     <br />
+    <br />
     <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea,ai,linux,ps,qt,unity,vscode,xd,wordpress" />
   </a>
 </p>
