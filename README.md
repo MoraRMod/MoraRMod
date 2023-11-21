@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <br />
     <img src="https://skillicons.dev/icons?i=ai,linux,ps,qt" />
     <br />
-    <img src="https://skillicons.dev/icons?i=unity,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=unity,vscode,xd,wordpress" />
   </a>
 </p>
 
