@@ -21,19 +21,11 @@ Here are some ideas to get you started:
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
 
 <h2>Skills & Tools</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts,cpp,git,html,css,react,cs,nodejs,c" />
-  </a>
-
-  <br />
-  
-  <a style="margin-left: 20px;" href="https://skillicons.dev">        
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
     <br />
-    <img src="https://skillicons.dev/icons?i=ai,linux,ps,qt" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=unity,vscode,xd,wordpress" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea,ai,linux,ps,qt,unity,vscode,xd,wordpress" />
   </a>
 </p>
 
