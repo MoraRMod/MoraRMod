@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <h2>Tools</h2>
 <p align="left">
-  <a href="https://skillicons.dev">        
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" style="margin-left: 20px;" />
+  <a style="margin-left: 20px;" href="https://skillicons.dev">        
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
     <br />
     <img src="https://skillicons.dev/icons?i=ai,linux,ps,qt" />
     <br />
