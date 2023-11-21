@@ -27,3 +27,8 @@ Here are some ideas to get you started:
     alt="MoraRMod" 
     bg_color=#808080/>
 </p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="MoraRMod" />
+</p>
