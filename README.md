@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻  I'm currently working on Selfish, located in Guadalajara.
-- 🧠  I'm currently learning Python, C# and data bases.
-- 🤔  I'm looking for help wiht Python, I have many doubts about it :(.
+- 🧠  Currently working on Frontend Develoment.
 - 💬  Ask me about mathematics, either basic or advanced. Also of books, particularly of romance.
-- 📫  How to reach me: ralerwip@gmai.com.
 - ⚡  Fun fact: I am an active math advisor at Mensa México.
