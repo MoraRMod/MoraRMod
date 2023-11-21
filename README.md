@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2>Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
+    <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
     <br />
     <img src="https://skillicons.dev/icons?i=cpp,git,html,css" />
     <br />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">        
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" style="margin-right: 20px;" />
     <br />
     <img src="https://skillicons.dev/icons?i=ai,linux,ps,qt" />
     <br />
