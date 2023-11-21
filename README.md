@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about `mathematics`, either basic or advanced. Also of books, particularly of romance.
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
 
-<h2>Skills</h2>
+<h2>Skills & Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
@@ -29,10 +29,7 @@ Here are some ideas to get you started:
     <br />
     <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
   </a>
-</p>
 
-<h2>Tools</h2>
-<p align="left">
   <a style="margin-left: 20px;" href="https://skillicons.dev">        
     <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
     <br />
