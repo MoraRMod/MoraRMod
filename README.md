@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
 
 <h2>Skills</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
@@ -39,10 +38,8 @@ Here are some ideas to get you started:
     alt="MoraRMod" 
     bg_color=#808080/>
 </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoraRMod&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="MoraRMod" />
 </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoraRMod&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
