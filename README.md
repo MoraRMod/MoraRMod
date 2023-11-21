@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
     <br />
     <img src="https://skillicons.dev/icons?i=cpp,git,html,css" />
+    <br />
     <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
   </a>
 </p>
