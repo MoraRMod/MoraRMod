@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🧠  Currently working on `Frontend Develoment`.
 - 💬  Ask me about `mathematics`, either basic or advanced. Also of books, particularly of romance.
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
+
+<h2>Statistical Data:</h2>
