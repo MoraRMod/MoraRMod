@@ -27,7 +27,18 @@ Here are some ideas to get you started:
     <br />
     <img src="https://skillicons.dev/icons?i=cpp,git,html,css" />
     <br />
-    <img src="https://skillicons.dev/icons?i=react,cs,nodejs,github" />
+    <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
+  </a>
+</p>
+
+<h2>Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=ai,linux,ps,qt" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=unity,vscode,xd" />
   </a>
 </p>
 
