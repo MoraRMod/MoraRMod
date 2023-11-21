@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 <h2>Skills & Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=cpp,git,html,css" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
+    <img src="https://skillicons.dev/icons?i=py,js,vue,ts,cpp,git,html,css,react,cs,nodejs,c" />
   </a>
 
   <br />
