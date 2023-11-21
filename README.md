@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 
 <h2>Skills</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,vue,react,html,css,git,nodejs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
+  </a>
+</p>
 
 <h2>Statistical Data</h2>
 <p>
