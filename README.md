@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2>Skills</h2>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,html,css,git,nodejs,c,cpp,cs,py)](https://skillicons.dev)
 
 
 <h2>Statistical Data</h2>
