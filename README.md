@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 - 💬  Ask me about `mathematics`, either basic or advanced. Also of books, particularly of romance.
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
 
-<h2>Statistical Data:</h2>
+<h2>Skills</h2>
+
+<p>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</p>
+
+<h2>Statistical Data</h2>
 <p>
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MoraRMod&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -34,5 +40,3 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoraRMod&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-
-[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
