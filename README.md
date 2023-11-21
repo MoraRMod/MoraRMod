@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=react,cs,nodejs,c" />
   </a>
 
+  <br />
+  
   <a style="margin-left: 20px;" href="https://skillicons.dev">        
     <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
     <br />
