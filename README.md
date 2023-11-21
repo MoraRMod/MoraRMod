@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡  Fun fact: I am an active math advisor at `Mensa México`.
 
 <h2>Skills</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,vue,ts" />
     <br />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2>Tools</h2>
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,idea" />
     <br />
