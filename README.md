@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <h2>Skills</h2>
 
-<p>
+
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
+
 
 <h2>Statistical Data</h2>
 <p>
