@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻  I'm currently working on Selfish, located in Guadalajara.
-- 🧠  Currently working on Frontend Develoment.
-- 💬  Ask me about mathematics, either basic or advanced. Also of books, particularly of romance.
-- ⚡  Fun fact: I am an active math advisor at Mensa México.
+- 👨‍💻  I'm currently working on `Selfish`, located in Guadalajara.
+- 🧠  Currently working on `Frontend Develoment`.
+- 💬  Ask me about `mathematics`, either basic or advanced. Also of books, particularly of romance.
+- ⚡  Fun fact: I am an active math advisor at `Mensa México`.
